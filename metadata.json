@@ -1,0 +1,5 @@
+{
+  "name": "URL Launcher App",
+  "description": "A simple React web app that acts as a URL launcher, ready for Capacitor conversion.",
+  "requestFramePermissions": []
+}
